@@ -1,0 +1,11 @@
+{
+  "communicationUuid": "1",
+  "sourceCountryId": "US",
+  "sourceBankId": "JPM",
+  "sourceBankAccNumber": "1234578",
+  "destinationCountryId": "IND",
+  "destinationBankId": "HDFC",
+  "destinationBankAccNumber": "6578264d",
+  "subject": "Demo Payment",
+  "message": ["This is the first message of the thread"]
+}
