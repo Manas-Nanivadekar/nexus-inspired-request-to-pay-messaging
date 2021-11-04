@@ -1,5 +1,9 @@
 # Nexus Messaging API
 
+## What is this project
+
+This project is a minimal demonstration of Messaging between Payer and Payee. These APIs are intended to be used with [Nexus](nexus.bisih.org) to facilitate [Request To Pay](www.requesttopay.co.uk) in international transactions or cross border transactions.
+
 ## Running code locally
 
 1. Make sure you have java 11 and rabbit mq installed on your machine.
